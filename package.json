@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/projetoqa/teste-ebac-uii#readme",
   "dependencies": {
+    "@faker-js/faker": "^6.1.2",
     "cypress": "^9.5.3"
   }
 }
